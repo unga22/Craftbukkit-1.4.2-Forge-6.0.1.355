@@ -7,6 +7,13 @@ Requests:
 
 1) Add Forge 6.0.1.355 version to Craftbukkit 1.4.2 .-
 
+Forge 6.0.1.355 (Universal) -> http://files.minecraftforge.net/
+
+&
+
+Craftbukkit 1.4.2-r0.2 -> http://forums.bukkit.org/threads/craftbukkit-1-4-2-r0-2-is-now-available.109001/
+
+
 2) Add the next Mods to Craftbukkit 1.4.2 with Forge 6.0.1.355 the lastest build:
 
 
